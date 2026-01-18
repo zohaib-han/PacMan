@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+Debug/
+Release/
+x86/
+x64/
+
+# Intermediate files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.recipe
+*.log
+*.txt
+
+# Executables
+*.exe
+
+# System files
+Thumbs.db
+.DS_Store
