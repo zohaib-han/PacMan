@@ -76,7 +76,10 @@ Computer Science Student
 
 ## Screenshots
 
-![alt text](image.png) 
-![alt text](image-1.png) 
-![alt text](image-2.png) 
-![alt text](image-3.png)
+<img width="1002" height="714" alt="Screenshot 2026-01-18 140642" src="https://github.com/user-attachments/assets/f2ccdb42-d96a-48e5-ad3c-c00221b75813" />
+<img width="1126" height="669" alt="Screenshot 2026-01-18 140715" src="https://github.com/user-attachments/assets/7ac58923-b714-45db-ac7a-151a1bcfa29e" />
+<img width="1138" height="678" alt="Screenshot 2026-01-18 140736" src="https://github.com/user-attachments/assets/666c0072-9c70-4c64-a6bc-91eed66b55b2" />
+<img width="1166" height="720" alt="Screenshot 2026-01-18 140759" src="https://github.com/user-attachments/assets/51ed1edb-b783-4532-b780-a7dd5702010d" />
+
+
+
